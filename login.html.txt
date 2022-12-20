@@ -1,0 +1,9 @@
+html
+   body
+      form action = httplocalhost5000login method = post
+         pEnter UserNamep
+         pinput type = text name = user p
+         pinput type = submit value = submit p
+      form
+   body
+html
